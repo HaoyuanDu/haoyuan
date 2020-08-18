@@ -1,0 +1,16 @@
+{
+  "name": "part-css",
+  "version": "1.0.0",
+  "description": "true css practice",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Haoyuan Du",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
